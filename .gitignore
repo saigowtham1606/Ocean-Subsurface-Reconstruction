@@ -1,0 +1,15 @@
+# Data files
+data/
+*.nc
+*.zarr
+*.csv
+
+# Model weights
+*.pt
+*.pth
+
+# Environment and API keys
+.env
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/

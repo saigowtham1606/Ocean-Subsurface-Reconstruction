@@ -1,0 +1,21 @@
+# Data processing & visualization
+numpy
+pandas
+xarray>=2024.2.0
+matplotlib
+plotly
+
+# Ocean Data APIs
+copernicusmarine
+erddapy>=2.2.1,<3.0.0
+argopy
+
+# NetCDF formatting engines
+netCDF4
+h5netcdf
+h5py
+zarr
+
+# AI and Frontend
+torch
+streamlit
